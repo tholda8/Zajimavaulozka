@@ -10,4 +10,5 @@ __Neexistuje žádné x, y.__
 
 Pokud chcete ve skriptu změnit rozsah, tak proměnná __r__ je rozsah a __target__ je hledané číslo.
 
-Existují řešení pro 2025 (neuspořádané dvojice)- {0,-45};{0,45};{45,45}
+Existují řešení pro 2025 (neuspořádané dvojice) - {0; -45};{0; 45};{45; 45}
+2023 - {17; -34}; {17; 51}; {34; -17}; {34; 51}
